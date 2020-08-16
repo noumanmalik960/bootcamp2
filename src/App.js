@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <h1>Hello Pakistan!</h1>
+        <h2>Inna di ma penu ich...</h2>
       </header>
     </div>
   );
