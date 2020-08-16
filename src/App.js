@@ -18,8 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hello Pakistan!</h1>
       </header>
-      <h1>Hello Pakistan!</h1>
     </div>
   );
 }
